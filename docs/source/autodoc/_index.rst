@@ -1,0 +1,10 @@
+.. docs/source/autodoc/_index.rst
+
+Automatic documentation of source code
+--------------------------------------
+
+
+..  toctree::
+    :maxdepth: 2
+
+    foo/_index.rst

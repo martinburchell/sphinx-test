@@ -1,0 +1,10 @@
+test/foo
+--------
+
+..  toctree::
+    :maxdepth: 1
+
+    another_bar.rst
+    bar.rst
+    ref_one.rst
+    ref_two.rst

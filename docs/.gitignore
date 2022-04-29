@@ -1,0 +1,6 @@
+# crate.png
+# ... autocreated from the .pdf file
+# ... but we need it in the repository for readthedocs
+
+build/
+

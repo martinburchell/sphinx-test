@@ -1,5 +1,4 @@
-Test
-====
+..  crate_anon/docs/source/index.rst
 
 ..  toctree::
     :maxdepth: 2

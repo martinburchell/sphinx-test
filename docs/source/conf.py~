@@ -1,4 +1,0 @@
-# conf.py
-extensions = [
-    "sphinx.ext.autodoc",
-]

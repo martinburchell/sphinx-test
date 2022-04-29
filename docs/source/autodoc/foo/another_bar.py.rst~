@@ -1,5 +1,0 @@
-test.foo.another_bar
-~~~~~~~~~~~~~~~~~~~~
-
-.. automodule:: test.foo.another_bar
-    :members:
